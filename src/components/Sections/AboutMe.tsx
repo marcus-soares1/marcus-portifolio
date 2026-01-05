@@ -5,9 +5,9 @@ export default function AboutMe() {
                 <h2 className="text-primary mb-4">Sobre mim</h2>
                 <div className="row">
                     <div className="col-5">
-                        <img className="img-fluid"  src="/pexels-joshsorenson-1714208.jpg"/>
+                        <img className="img-fluid"  src="images/pexels-joshsorenson-1714208.jpg"/>
                     </div>
-                    <div className="col-7 fs-5">
+                    <div className="col-7">
                         <p>
                             Minha formação em Análise e Desenvolvimento de Sistemas pela Estácio, com conclusão prevista para 2026, complementa minha experiência prática como Assistente de Segurança do Trabalho na DHL Supply Chain. Nesta posição, contribui para o desenvolvimento de soluções usando a Power Platform, otimizando rotinas administrativas e facilitando a usabilidade de aplicações internas.
                         </p>

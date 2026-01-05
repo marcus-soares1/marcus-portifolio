@@ -2,7 +2,7 @@ export default function Navbar () {
     return (
         <nav className="navbar navbar-expand-md navbar-dark bg-primary font-monospace sticky-top"> 
             <div className="container py-2"> 
-                <a className="navbar-brand f-5" href="#cover">Marcus Dev</a> 
+                <a className="navbar-brand f-5" href="#cover">Marcus &lt;Dev&gt;</a> 
                 
                 <button className="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span className="navbar-toggler-icon"></span> </button> 
                 
