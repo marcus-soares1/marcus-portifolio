@@ -17,3 +17,23 @@
   object-fit: cover;
   background: #fff;
 }
+
+.card-stack {
+    width: 12rem;
+    height: 12rem
+}
+
+.card-stack img{
+    height: 6rem;
+    width: 6rem
+}
+
+.card-project{
+    max-width: 24rem;
+}
+
+.project-image {
+    max-width: 18rem;
+    height: auto;
+    object-fit: cover;
+}
