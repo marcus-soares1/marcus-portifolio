@@ -14,7 +14,7 @@ export default function  Contact () {
                 </div>
                 <div>
                     ou mande um e-mail para: 
-                    <p><a href="mailto:marcus.soares1@gmail.com">marcus.soares1@gmail.com</a></p>
+                    <p><a href="mailto:marcus.silva.soares1@gmail.com">marcus.silva.soares1@gmail.com</a></p>
                 </div>
           
             </div>
