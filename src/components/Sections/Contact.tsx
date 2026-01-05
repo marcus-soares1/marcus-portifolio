@@ -13,8 +13,8 @@ export default function  Contact () {
                     </a>
                 </div>
                 <div>
-                    ou mande um e-mail para: 
-                    <p><a href="mailto:marcus.silva.soares1@gmail.com">marcus.silva.soares1@gmail.com</a></p>
+                    <p className="text-center">ou mande um e-mail para:</p>
+                    <p className="text-center"><a href="mailto:marcus.silva.soares1@gmail.com">marcus.silva.soares1@gmail.com</a></p>
                 </div>
           
             </div>
